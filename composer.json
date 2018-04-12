@@ -1,0 +1,13 @@
+{
+    "name": "guiguiboy/http_access_checker",
+    "type": "project",
+    "authors": [
+        {
+            "name": "guiguiboy",
+            "email": "guillaume.bretou@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "~6.0"
+    }
+}
